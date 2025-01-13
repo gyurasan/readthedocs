@@ -11,14 +11,18 @@ how to :ref:`installation` project and the :ref:`mysub:installation` the sub-pro
 
 .. note::
 
-   This project is under active development.
+   Dies ist ein Test Projekt.
+
+Sub Projekt
+-----------
+Hier ist das Sub Projekt zu finden  :doc:`mysub:index`
 
 Contents
 --------
 
+ 
 .. toctree::
 
    usage
    api
-   else
-   :ref:`mysub:installation`
+   
