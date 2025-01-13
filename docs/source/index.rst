@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   mysub/index
+   mysub/docs/source/index
