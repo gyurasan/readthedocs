@@ -20,9 +20,11 @@ Hier ist das Sub Projekt zu finden  :doc:`mysub:index`
 Contents
 --------
 
- 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
    usage
    api
+   ../source/ak99/docs/index
    
