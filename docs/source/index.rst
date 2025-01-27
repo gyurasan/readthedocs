@@ -26,6 +26,6 @@ Contents
 
    usage
    api
-   ../docs/source/ak99/docs/usagesubmodule
-   ../docs/source/ak99/docs/index
+   ak99/docs/usagesubmodule
+   ak99/docs/index
    
