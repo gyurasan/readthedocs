@@ -26,5 +26,5 @@ Contents
 
    usage
    api
-   ../source/ak99/docs/index
+   ../docs/source/ak99/docs/index
    
