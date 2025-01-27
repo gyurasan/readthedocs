@@ -1,5 +1,5 @@
 Welcome to Lumache's Test documentation!
-===================================
+========================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -26,5 +26,6 @@ Contents
 
    usage
    api
+   ../docs/source/ak99/docs/usagesubmodule
    ../docs/source/ak99/docs/index
    
