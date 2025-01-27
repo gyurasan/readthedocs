@@ -4,7 +4,7 @@ import os
 import sys
 
 # Add paths to the submodule documentation
-sys.path.insert(0, os.path.abspath('ak99/docs'))
+sys.path.insert(0, os.path.abspath('source/ak99/docs'))
 
 # -- Project information
 
