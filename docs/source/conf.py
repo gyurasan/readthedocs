@@ -1,5 +1,11 @@
 # Configuration file for the Sphinx documentation builder.
 
+import os
+import sys
+
+# Add paths to the submodule documentation
+sys.path.insert(0, os.path.abspath('../ak99/docs'))
+
 # -- Project information
 
 project = 'Lumache'
